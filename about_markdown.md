@@ -113,7 +113,7 @@ end code block.
 ```
 This is a normal paragraph:
 
-    This is a code block.
+ This is a code block.
     
 end code block.
 
@@ -126,3 +126,55 @@ end code block.
 > This is a normal paragraph:
 >  This is a code block.
 > end code block.
+
+
+### 3-5. 코드블럭
+> - ```<pre><code>{code}</code></pre>``` 이용방식
+> - 코드블럭코드 "빽틱```" 이용방법
+> ```
+> ```code```
+> ```
+
+### 3-6. 수평선
+```
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+```
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+
+
+### 3-7. 링크
+```
+* 외부링크 : [Google](https://google.com, "google link")
+* 외부링크: <http://example.com/>
+* 이메일링크: <address@example.com>
+```
+* 외부링크 : [Google](https://google.com, "google link")
+* 외부링크: <http://example.com/>
+* 이메일링크: <address@example.com>
+
+
+### 3-8. 이미지
+```
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
+<img src="/path/to/img.jpg" width="" height="" title="" alt=""></img>
+```
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
+<img src="/path/to/img.jpg" width="" height="" title="" alt=""></img>
