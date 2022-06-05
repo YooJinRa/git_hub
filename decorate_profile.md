@@ -17,9 +17,12 @@
 ### 프로필 꾸미기 : 뱃지
 ```
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/{뱃지이름}-{코드}?style=flat-square&logo={로고이름}&logoColor=white"/>
 ```
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 [뱃지 참고 사이트](https://simpleicons.org/) : https://simpleicons.org/
 
+
+***
