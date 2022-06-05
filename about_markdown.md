@@ -55,6 +55,17 @@
 ---
 
 ### 3-3. 목록(List)
+**순서있는 목록 : 숫자와 점 이용**
+```
+1. 첫번째
+2. 두번째
+3. 세번째
+```
+1. 첫번째
+2. 두번째
+3. 세번째
+
+
 **순서없는 목록 : 기호 `*`, `+`, `-` 지원**
 * 빨강
   * 녹색
@@ -92,3 +103,26 @@
       + 4단계
 ```
 
+### 3-4. 들여쓰기
+```
+This is a normal paragraph:
+
+    This is a code block.
+    
+end code block.
+```
+This is a normal paragraph:
+
+    This is a code block.
+    
+end code block.
+
+> 한 줄 띄어쓰기 안한 경우
+> ```
+> This is a normal paragraph:
+>  This is a code block.
+> end code block.
+> ```
+> This is a normal paragraph:
+>  This is a code block.
+> end code block.
